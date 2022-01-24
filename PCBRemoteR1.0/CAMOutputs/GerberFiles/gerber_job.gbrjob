@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-05T23:18:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "RemoteR1.0"
+        },
+        "Owner": "Gordon Anderson <gaa@owt.com>",
+        "Size": {
+            "X": 122.301,
+            "Y": 122.047
+        }
+    }
+}

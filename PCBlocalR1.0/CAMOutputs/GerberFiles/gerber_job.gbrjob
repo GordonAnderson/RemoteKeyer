@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-01-24T05:58:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "LocalR1.0"
+        },
+        "Owner": "Gordon Anderson <gaa@owt.com>",
+        "Size": {
+            "X": 122.301,
+            "Y": 122.047
+        }
+    }
+}
